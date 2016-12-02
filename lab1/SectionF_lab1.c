@@ -1,4 +1,4 @@
-// Selwyn Ralph
+
 // Lab 1 - Section F
 // Pineapple
 
