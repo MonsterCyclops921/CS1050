@@ -1,8 +1,4 @@
-// Selwyn Ralph
-// sjrtrd
-// 12448280
-// Lab 3 - Section F
-// Purple
+
 
 #include <stdio.h>
 #include <math.h>

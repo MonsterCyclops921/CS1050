@@ -1,7 +1,3 @@
-//Selwyn Ralph
-//sjrtrd
-//12448280
-//Section F Sydney Bates
 
 #include<stdio.h>
 

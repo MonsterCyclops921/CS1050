@@ -1,7 +1,3 @@
-// Selwuyn Ralph
-// 12448280
-// sjrtrd
-// Sydeny Bates Section F   
 
 #include <stdio.h>
 #include <stdlib.h>

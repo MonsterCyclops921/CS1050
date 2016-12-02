@@ -1,6 +1,4 @@
 
-// Lab 1 - Section F
-// Pineapple
 
 
 #include <stdio.h>

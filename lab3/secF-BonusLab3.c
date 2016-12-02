@@ -1,8 +1,3 @@
-// Selwyn Ralph
-// sjrtrd
-// 12448280
-// section F Sydney Bates
-// Purple
 
 
 #include <stdio.h>

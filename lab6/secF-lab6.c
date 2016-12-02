@@ -1,9 +1,3 @@
-// Selwyn Ralph
-// sjrtrd
-// 12448280
-// Section F sydney bates
-// bagels
-
 
 #include <stdio.h>
 #include <stdlib.h>

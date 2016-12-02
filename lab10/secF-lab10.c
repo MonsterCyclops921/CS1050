@@ -1,8 +1,3 @@
-// Selwyn Ralph
-// sjrtrd
-// 12448280
-// Sydeny Bates Section F
-// Election #2016
 
 #include <stdio.h>
 #include <stdlib.h>

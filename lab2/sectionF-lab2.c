@@ -1,8 +1,3 @@
-// Selwyn Ralph
-// sjrtrd
-// 12448280
-// Section F Sydney Bates
-// grapes
 
 #include<stdio.h>
 
