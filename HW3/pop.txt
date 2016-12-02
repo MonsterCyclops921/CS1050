@@ -1,0 +1,8 @@
+Name			Account No.	Ammount
+Chantal			1001		2289.75
+Darius			3003		6313.89
+Jared			2002		5345.56
+Nicolle			4004		3985.00
+Darius has the highest amount 6313.89 in the account number 3003
+Chantal has the lowest amount 2289.75 in the account number 1001
+The average amount is 4483.55
