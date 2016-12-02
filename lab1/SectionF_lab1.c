@@ -1,6 +1,4 @@
 // Selwyn Ralph
-// sjrtrd 
-// 12448280
 // Lab 1 - Section F
 // Pineapple
 
